@@ -1,7 +1,4 @@
-Zakir Leathers is an e-commerce site built by using vanilla HTML5, CSS3 and JavaScript(ES6) to polish my skills and build real life projects and showcase them on my portfolio. 
-
-E-commerce Website
-This is an e-commerce website built as a personal project using vanilla HTML, CSS, and JavaScript. The goal of this project was to showcase my skills and polish my front-end development abilities.
+Zakir Leathers is an e-commerce website built as a personal project using vanilla HTML, CSS, and JavaScript. The goal of this project was to showcase my skills and polish my front-end development abilities.
 
 Getting Started
 To get started, simply clone or download the repository to your local machine. You can then open the index.html file in your browser to view the website.
